@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird Population</title>
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="icon" href="resources/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<div class="right-nav">
+    <ul>
+        <li><a href="#section1" class="nav-dot" data-name="Title"></a></li>
+        <li><a href="#section2" class="nav-dot" data-name="Habitats"></a></li>
+        <li><a href="#section3" class="nav-dot" data-name="Tree Pipit"></a></li>
+        <li><a href="#section4" class="nav-dot" data-name="Temperature"></a></li>
+        <li><a href="#section5" class="nav-dot" data-name="Map Visualization"></a></li>
+        <li><a href="#section6" class="nav-dot" data-name="Cat Predation"></a></li>
+    </ul>
+</div>
+<section id="section1" class="full-section bird-container">
+    <img src="resources/coolbird-unscreen.gif" alt="Flying Bird" class="bird">
+    <div class="section title">
+        <div class="center">
+            <h1>Bird Population Trends in Switzerland: Tracking the Impact of Climate, Habitat Loss, and Cat Predation</h1>
+        </div>
+        <div class="center-bottom">
+            <div class="bird-and-cat">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="section2" class="full-section bird-container">
+    <h2>SBI Bird Index</h2>
+    <p style="font-weight: lighter; width: 60%">The Swiss Bird Index (SBI) was developed to monitor and assess the health of bird populations.
+        An index value <b>above 100</b> (baseline) indicates an increase in the population relative to the baseline, while a value <b>below 100</b> signifies a decrease.
+    </p>
+    <div  class="habitats_chart fade-in" id="habitats_chart"></div>
+    <div id="controls"></div>
+    <br>
+    <div class="texty"><p style="font-weight: lighter"> As shown in these graphs, over the years, birds have been moving their habitats more towards higher alpine regions, likely due to changing environmental conditions that make these areas better for their survival. Overall, habitats have grown a lot, with noticeable increases across different regions.  Alpine habitats have seen a particularly sharp and rapid rise, growing steeper than other areas. Meanwhile, woodlands have started to decline recently, possibly due to changes in land use or other ecological factors affecting habitat availability for some species.</div>
+    </p>
+</section>
+
+<section id="section3" class="full-section tree-pipit-section">
+    <div class="tree-pipit-description">
+            <h2>Tree Pipit</h2>
+            <img src="resources/tree_pipit_fancy.png" alt="Tree Pipit">
+            <div class="habitat">
+                <img id="woodlands" src="resources/woodlands.png" alt="Woodlands">
+                <p>Woodlands</p>
+            </div>
+            <div class="text-box">
+                <p>
+                    The Tree Pipit is well known for its distinctive song flight: the male takes off steeply into the air from an elevated perch, begins its song shortly before reaching the highest point, and continues singing while gliding downwards at an angle with parachute-like outstretched wings.
+                </p>
+            </div>
+        </div>
+    <div class="tree-pipit-chart fade-in">
+
+        <div class="text3"><h3>Breeding Bird Index Trend for Tree Pipit in Switzerland</h3></div>
+
+        <div id="tree_pipit_chart"></div>
+
+
+        <div class="text2">
+            <p style="font-weight: lighter">
+                The tree pipit, a bird that thrives in lower-altitude habitats such as open woodlands, heathlands, and meadows with scattered trees, is increasingly threatened by habitat loss. Expanding agriculture, urban development, and forestry practices continually reduce the availability of these open landscapes, leaving the tree pipit with fewer areas to live and breed.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="section4" class="full-section temperature-section">
+    <div class="description">
+        <h2>Rising temperatures in Switzerland</h2>
+        <p style="font-weight: lighter">
+            Rising temperatures have pushed some bird species, like the Tree Pipit, to move to higher altitudes where the climate is cooler and habitats are less affected. While alpine regions provide a temporary refuge, they also come with new challenges: steeper terrain, colder winters, and lower oxygen levels, conditions that not all species can adapt to. Even for those that can, survival remains difficult, as migration routes now pass through unfamiliar and fragmented landscapes, increasing the risks. As shown in the graph, birds consistently shifted to higher altitudes whenever temperatures rose, suggesting a correlation between rising temperatures and these habitat changes.
+        </p>
+        <br>
+        <div id="combined_chart" class="fade-in visible"></div>
+    </div>
+
+
+</section>
+
+<section id="section5" class="full-section map-visualization-section">
+    <div><h2> Cat Distribution Switzerland</h2></div>
+    <div id="hover-info" style="margin: 10px; font-size: 14px;">Hover over a canton to see details</div>
+    <div class="map fade-in visible" id="map"></div>
+    <div class="description">
+        <p style="font-weight: lighter">
+            This map shows how cats are distributed across different cantons in Switzerland. Over time, concerns have grown about how domestic cats might be impacting bird populations. Some news articles,<href></href> like <a href="https://www.tagblatt.ch/ostschweiz/stgallen/naturmuseum-stgallen-30-millionen-voegel-sterben-im-jahr-wegen-katzen-stimmt-diese-zahl-ld.2228526" target="_blank">
+            this one</a>, suggest that cats are a major reason why birds are leaving certain areas. They argue that cats hunting birds poses a significant threat, possibly contributing to a drop in bird numbers in some regions.
+
+            However, there’s no solid proof or consistent evidence directly linking cats to such a massive impact. As seen in the earlier graph, birds seem to be moving to higher altitudes, which appears to be more closely tied to rising temperatures than to the presence of cats.
+        </p>
+    </div>
+    <div class="fullsize">
+
+    </div>
+
+</section>
+
+
+<section id="section6" class="full-section cat-predation-section fade-in visible">
+    <h2>Cat Predation Experiment</h2>
+
+    <div class="cat-predation-description text-box">
+        <img src="resources/cat_collar.png" alt="Cat">
+        <p>
+            In this experiment, cats were observed under three different treatments:
+        </p>
+        <ul>
+            <li>No treatment</li>
+            <li>Collar </li>
+            <li>Bell + Collar </li>
+        </ul>
+        <p >
+            The study aimed to assess the impact of these treatments on the number of prey <br> caught by cats in a phase (2 weeks).
+            Overall the Cats caught significantly less after getting the collars.
+        </p>
+</div>
+    <div id="chart-container" style="margin-top: 10%">
+        <div id="cat-predation-chart"></div>
+        <div class="button-container" id="button-container"></div>
+    </div>
+</section>
+
+<section id="section7" class="full-section cat-predation-section">
+    <div class="bibliograph">
+        <ul>
+            <h2> <strong > Datasources </strong></h2>
+            <li>
+                <strong>Vogelwarte Breeding Bird Index</strong><br>
+                Vogelwarte. <em>Population Trends: Breeding Bird Index.</em><br>
+                <a href="https://www.vogelwarte.ch/modx/en/projects/population-trends/breeding-bird-index/#tree-pipit" target="_blank">
+                    https://www.vogelwarte.ch/modx/en/projects/population-trends/breeding-bird-index/#tree-pipit
+                </a>
+            </li>
+            <li>
+                <strong>Birds of Switzerland</strong><br>
+                Vogelwarte. <em>Vögel der Schweiz.</em><br>
+                <a href="https://www.vogelwarte.ch/de/voegel-der-schweiz/" target="_blank">
+                    https://www.vogelwarte.ch/de/voegel-der-schweiz/
+                </a>
+            </li>
+            <li>
+                <strong>Bird Statistics Overview</strong><br>
+                <em>Teams Evergreen Assets Safelinks.</em><br>
+                <a href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" target="_blank">
+                    https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html
+                </a>
+            </li>
+            <li>
+                <strong>Bird Mortality Due to Cats</strong><br>
+                <em>Tagblatt: Naturmuseum St. Gallen.</em><br>
+                <a href="https://www.tagblatt.ch/ostschweiz/stgallen/naturmuseum-stgallen-30-millionen-voegel-sterben-im-jahr-wegen-katzen-stimmt-diese-zahl-ld.2228526" target="_blank">
+                    https://www.tagblatt.ch/ostschweiz/stgallen/naturmuseum-stgallen-30-millionen-voegel-sterben-im-jahr-wegen-katzen-stimmt-diese-zahl-ld.2228526
+                </a>
+            </li>
+            <li>
+                <strong>Domestic Cats and Their Impacts on Wildlife</strong><br>
+                Loss, S. R., Will, T., & Marra, P. P. (2013). <em>The impact of free-ranging domestic cats on wildlife.</em> Nature Communications, 4, 1396.<br>
+                <a href="https://www.nature.com/articles/ncomms2380" target="_blank">
+                    https://www.nature.com/articles/ncomms2380
+                </a>
+            </li>
+            <li>
+                <strong>Cat Predation Impact Study</strong><br>
+                Hohnen, R. et al. (2022). <em>Frontiers in Ecology and Evolution.</em><br>
+                <a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.850442/full" target="_blank">
+                    https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.850442/full
+                </a>
+            </li>
+        </ul>
+    </div>
+
+</section>
+
+<!-- Libs -->
+<script src="//unpkg.com/d3@5/dist/d3.min.js"></script>
+<script src="//unpkg.com/topojson@3/dist/topojson.min.js"></script>
+<script src='lib/d3/d3.js'></script>
+<script src='lib/lodash.js'></script>
+
+<!-- custom script -->
+<script src='src/cats_predation_treatments.js'></script>
+<script src='src/birds_index_tree_pipit.js'></script>
+<script src='src/habitats.js'></script>
+<script src='src/swiss-show.js'></script>
+
+<script src='src/temp.js'></script>
+<script src='src/cats.js'></script>
+<script src='src/temp_line.js'></script>
+
+</body>
+</html>

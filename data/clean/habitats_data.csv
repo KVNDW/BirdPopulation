@@ -1,0 +1,496 @@
+mean,year,e
+100.0,1990,Regular Breeding Birds
+94.42,1991,Regular Breeding Birds
+96.95,1992,Regular Breeding Birds
+99.49,1993,Regular Breeding Birds
+98.2,1994,Regular Breeding Birds
+97.71,1995,Regular Breeding Birds
+96.52,1996,Regular Breeding Birds
+91.47,1997,Regular Breeding Birds
+89.42,1998,Regular Breeding Birds
+87.47,1999,Regular Breeding Birds
+92.61,2000,Regular Breeding Birds
+88.64,2001,Regular Breeding Birds
+87.91,2002,Regular Breeding Birds
+91.32,2003,Regular Breeding Birds
+95.33,2004,Regular Breeding Birds
+98.18,2005,Regular Breeding Birds
+95.25,2006,Regular Breeding Birds
+98.43,2007,Regular Breeding Birds
+98.9,2008,Regular Breeding Birds
+93.73,2009,Regular Breeding Birds
+99.44,2010,Regular Breeding Birds
+101.19,2011,Regular Breeding Birds
+105.02,2012,Regular Breeding Birds
+101.96,2013,Regular Breeding Birds
+106.09,2014,Regular Breeding Birds
+109.57,2015,Regular Breeding Birds
+112.06,2016,Regular Breeding Birds
+114.22,2017,Regular Breeding Birds
+109.86,2018,Regular Breeding Birds
+118.51,2019,Regular Breeding Birds
+125.77,2020,Regular Breeding Birds
+129.19,2021,Regular Breeding Birds
+123.84,2022,Regular Breeding Birds
+100.0,1990,Alpine habitats
+102.4,1991,Alpine habitats
+106.26,1992,Alpine habitats
+108.81,1993,Alpine habitats
+108.98,1994,Alpine habitats
+107.46,1995,Alpine habitats
+101.65,1996,Alpine habitats
+95.8,1997,Alpine habitats
+86.97,1998,Alpine habitats
+81.4,1999,Alpine habitats
+82.82,2000,Alpine habitats
+80.62,2001,Alpine habitats
+80.41,2002,Alpine habitats
+80.35,2003,Alpine habitats
+81.7,2004,Alpine habitats
+91.76,2005,Alpine habitats
+91.99,2006,Alpine habitats
+93.39,2007,Alpine habitats
+94.13,2008,Alpine habitats
+86.08,2009,Alpine habitats
+87.09,2010,Alpine habitats
+91.18,2011,Alpine habitats
+89.46,2012,Alpine habitats
+91.55,2013,Alpine habitats
+100.23,2014,Alpine habitats
+104.84,2015,Alpine habitats
+108.07,2016,Alpine habitats
+106.11,2017,Alpine habitats
+103.89,2018,Alpine habitats
+106.37,2019,Alpine habitats
+122.22,2020,Alpine habitats
+123.42,2021,Alpine habitats
+122.67,2022,Alpine habitats
+100.0,1990,Settlements
+101.36,1991,Settlements
+104.39,1992,Settlements
+115.81,1993,Settlements
+106.11,1994,Settlements
+102.36,1995,Settlements
+106.73,1996,Settlements
+107.31,1997,Settlements
+101.68,1998,Settlements
+98.43,1999,Settlements
+112.6,2000,Settlements
+103.07,2001,Settlements
+102.17,2002,Settlements
+109.79,2003,Settlements
+113.83,2004,Settlements
+117.26,2005,Settlements
+112.97,2006,Settlements
+109.38,2007,Settlements
+109.2,2008,Settlements
+111.46,2009,Settlements
+115.7,2010,Settlements
+117.04,2011,Settlements
+120.4,2012,Settlements
+124.68,2013,Settlements
+112.12,2014,Settlements
+109.69,2015,Settlements
+115.36,2016,Settlements
+117.18,2017,Settlements
+116.89,2018,Settlements
+122.96,2019,Settlements
+132.15,2020,Settlements
+129.22,2021,Settlements
+142.25,2022,Settlements
+100.0,1990,Wetlands
+87.28,1991,Wetlands
+93.08,1992,Wetlands
+90.94,1993,Wetlands
+94.38,1994,Wetlands
+93.03,1995,Wetlands
+95.85,1996,Wetlands
+86.79,1997,Wetlands
+88.52,1998,Wetlands
+83.26,1999,Wetlands
+87.53,2000,Wetlands
+86.53,2001,Wetlands
+82.6,2002,Wetlands
+93.16,2003,Wetlands
+93.64,2004,Wetlands
+94.44,2005,Wetlands
+94.96,2006,Wetlands
+98.14,2007,Wetlands
+100.2,2008,Wetlands
+98.75,2009,Wetlands
+100.47,2010,Wetlands
+107.65,2011,Wetlands
+105.13,2012,Wetlands
+114.91,2013,Wetlands
+116.25,2014,Wetlands
+121.51,2015,Wetlands
+132.69,2016,Wetlands
+132.91,2017,Wetlands
+131.58,2018,Wetlands
+130.76,2019,Wetlands
+136.09,2020,Wetlands
+139.0,2021,Wetlands
+137.49,2022,Wetlands
+100.0,1990,Woodland
+93.69,1991,Woodland
+94.97,1992,Woodland
+103.06,1993,Woodland
+99.3,1994,Woodland
+99.84,1995,Woodland
+98.86,1996,Woodland
+97.42,1997,Woodland
+94.23,1998,Woodland
+92.4,1999,Woodland
+99.19,2000,Woodland
+95.13,2001,Woodland
+97.84,2002,Woodland
+100.58,2003,Woodland
+107.44,2004,Woodland
+111.12,2005,Woodland
+102.35,2006,Woodland
+109.09,2007,Woodland
+110.82,2008,Woodland
+100.86,2009,Woodland
+110.56,2010,Woodland
+108.37,2011,Woodland
+114.83,2012,Woodland
+104.24,2013,Woodland
+112.02,2014,Woodland
+118.3,2015,Woodland
+115.51,2016,Woodland
+119.5,2017,Woodland
+109.9,2018,Woodland
+124.56,2019,Woodland
+124.13,2020,Woodland
+132.34,2021,Woodland
+119.83,2022,Woodland
+100.0,1990,Target species EOA
+91.45,1991,Target species EOA
+90.69,1992,Target species EOA
+92.39,1993,Target species EOA
+92.13,1994,Target species EOA
+87.58,1995,Target species EOA
+84.18,1996,Target species EOA
+74.9,1997,Target species EOA
+72.52,1998,Target species EOA
+74.79,1999,Target species EOA
+76.3,2000,Target species EOA
+69.15,2001,Target species EOA
+65.64,2002,Target species EOA
+66.47,2003,Target species EOA
+69.1,2004,Target species EOA
+68.66,2005,Target species EOA
+68.84,2006,Target species EOA
+68.94,2007,Target species EOA
+65.93,2008,Target species EOA
+63.17,2009,Target species EOA
+66.8,2010,Target species EOA
+72.55,2011,Target species EOA
+80.22,2012,Target species EOA
+73.87,2013,Target species EOA
+75.32,2014,Target species EOA
+75.3,2015,Target species EOA
+76.63,2016,Target species EOA
+76.06,2017,Target species EOA
+76.11,2018,Target species EOA
+78.13,2019,Target species EOA
+94.53,2020,Target species EOA
+94.09,2021,Target species EOA
+96.67,2022,Target species EOA
+100.0,1990,Characteristic species EOA
+99.69,1991,Characteristic species EOA
+103.08,1992,Characteristic species EOA
+103.53,1993,Characteristic species EOA
+103.29,1994,Characteristic species EOA
+107.09,1995,Characteristic species EOA
+104.58,1996,Characteristic species EOA
+99.57,1997,Characteristic species EOA
+93.58,1998,Characteristic species EOA
+92.35,1999,Characteristic species EOA
+97.1,2000,Characteristic species EOA
+91.44,2001,Characteristic species EOA
+87.76,2002,Characteristic species EOA
+90.34,2003,Characteristic species EOA
+94.95,2004,Characteristic species EOA
+102.46,2005,Characteristic species EOA
+97.67,2006,Characteristic species EOA
+100.08,2007,Characteristic species EOA
+95.71,2008,Characteristic species EOA
+90.16,2009,Characteristic species EOA
+97.36,2010,Characteristic species EOA
+95.81,2011,Characteristic species EOA
+97.2,2012,Characteristic species EOA
+89.2,2013,Characteristic species EOA
+95.49,2014,Characteristic species EOA
+97.39,2015,Characteristic species EOA
+99.26,2016,Characteristic species EOA
+98.2,2017,Characteristic species EOA
+94.75,2018,Characteristic species EOA
+104.68,2019,Characteristic species EOA
+107.47,2020,Characteristic species EOA
+110.28,2021,Characteristic species EOA
+102.38,2022,Characteristic species EOA
+100.0,1990,Target and characteristic species EOA
+94.88,1991,Target and characteristic species EOA
+95.86,1992,Target and characteristic species EOA
+97.14,1993,Target and characteristic species EOA
+97.46,1994,Target and characteristic species EOA
+95.35,1995,Target and characteristic species EOA
+92.98,1996,Target and characteristic species EOA
+85.54,1997,Target and characteristic species EOA
+82.04,1998,Target and characteristic species EOA
+82.47,1999,Target and characteristic species EOA
+85.15,2000,Target and characteristic species EOA
+78.81,2001,Target and characteristic species EOA
+75.31,2002,Target and characteristic species EOA
+76.87,2003,Target and characteristic species EOA
+80.2,2004,Target and characteristic species EOA
+82.48,2005,Target and characteristic species EOA
+80.97,2006,Target and characteristic species EOA
+82.22,2007,Target and characteristic species EOA
+78.97,2008,Target and characteristic species EOA
+74.86,2009,Target and characteristic species EOA
+80.4,2010,Target and characteristic species EOA
+83.01,2011,Target and characteristic species EOA
+87.57,2012,Target and characteristic species EOA
+81.24,2013,Target and characteristic species EOA
+84.7,2014,Target and characteristic species EOA
+85.73,2015,Target and characteristic species EOA
+87.08,2016,Target and characteristic species EOA
+86.62,2017,Target and characteristic species EOA
+85.54,2018,Target and characteristic species EOA
+90.52,2019,Target and characteristic species EOA
+101.6,2020,Target and characteristic species EOA
+102.73,2021,Target and characteristic species EOA
+100.77,2022,Target and characteristic species EOA
+100.0,1990,Short-distance migrants
+95.91,1991,Short-distance migrants
+95.61,1992,Short-distance migrants
+101.28,1993,Short-distance migrants
+102.41,1994,Short-distance migrants
+101.45,1995,Short-distance migrants
+99.05,1996,Short-distance migrants
+95.24,1997,Short-distance migrants
+94.22,1998,Short-distance migrants
+90.44,1999,Short-distance migrants
+96.85,2000,Short-distance migrants
+93.95,2001,Short-distance migrants
+94.69,2002,Short-distance migrants
+99.09,2003,Short-distance migrants
+103.0,2004,Short-distance migrants
+106.88,2005,Short-distance migrants
+101.57,2006,Short-distance migrants
+107.26,2007,Short-distance migrants
+108.22,2008,Short-distance migrants
+101.52,2009,Short-distance migrants
+106.89,2010,Short-distance migrants
+108.41,2011,Short-distance migrants
+114.24,2012,Short-distance migrants
+109.29,2013,Short-distance migrants
+113.25,2014,Short-distance migrants
+118.73,2015,Short-distance migrants
+121.26,2016,Short-distance migrants
+124.32,2017,Short-distance migrants
+119.07,2018,Short-distance migrants
+129.31,2019,Short-distance migrants
+132.09,2020,Short-distance migrants
+136.54,2021,Short-distance migrants
+130.05,2022,Short-distance migrants
+100.0,1990,Long-distance migrants
+91.19,1991,Long-distance migrants
+98.45,1992,Long-distance migrants
+95.04,1993,Long-distance migrants
+89.77,1994,Long-distance migrants
+90.55,1995,Long-distance migrants
+90.13,1996,Long-distance migrants
+83.32,1997,Long-distance migrants
+79.24,1998,Long-distance migrants
+81.38,1999,Long-distance migrants
+83.88,2000,Long-distance migrants
+77.99,2001,Long-distance migrants
+74.66,2002,Long-distance migrants
+75.96,2003,Long-distance migrants
+80.37,2004,Long-distance migrants
+81.16,2005,Long-distance migrants
+82.59,2006,Long-distance migrants
+81.21,2007,Long-distance migrants
+80.47,2008,Long-distance migrants
+77.97,2009,Long-distance migrants
+83.9,2010,Long-distance migrants
+86.47,2011,Long-distance migrants
+86.62,2012,Long-distance migrants
+87.43,2013,Long-distance migrants
+90.92,2014,Long-distance migrants
+90.97,2015,Long-distance migrants
+93.53,2016,Long-distance migrants
+94.16,2017,Long-distance migrants
+91.68,2018,Long-distance migrants
+97.61,2019,Long-distance migrants
+112.66,2020,Long-distance migrants
+113.88,2021,Long-distance migrants
+110.85,2022,Long-distance migrants
+100.0,1990,Climate Change plus
+93.25,1991,Climate Change plus
+95.63,1992,Climate Change plus
+99.97,1993,Climate Change plus
+101.68,1994,Climate Change plus
+101.48,1995,Climate Change plus
+102.14,1996,Climate Change plus
+96.05,1997,Climate Change plus
+98.94,1998,Climate Change plus
+96.76,1999,Climate Change plus
+102.01,2000,Climate Change plus
+97.66,2001,Climate Change plus
+97.45,2002,Climate Change plus
+101.51,2003,Climate Change plus
+107.82,2004,Climate Change plus
+110.8,2005,Climate Change plus
+115.94,2006,Climate Change plus
+121.53,2007,Climate Change plus
+120.01,2008,Climate Change plus
+117.85,2009,Climate Change plus
+123.7,2010,Climate Change plus
+127.84,2011,Climate Change plus
+130.67,2012,Climate Change plus
+133.28,2013,Climate Change plus
+139.82,2014,Climate Change plus
+144.71,2015,Climate Change plus
+150.1,2016,Climate Change plus
+154.58,2017,Climate Change plus
+152.6,2018,Climate Change plus
+170.57,2019,Climate Change plus
+189.71,2020,Climate Change plus
+195.2,2021,Climate Change plus
+181.19,2022,Climate Change plus
+100.0,1990,Climate Change minus
+98.25,1991,Climate Change minus
+96.88,1992,Climate Change minus
+103.22,1993,Climate Change minus
+102.08,1994,Climate Change minus
+101.64,1995,Climate Change minus
+97.97,1996,Climate Change minus
+92.58,1997,Climate Change minus
+86.64,1998,Climate Change minus
+83.79,1999,Climate Change minus
+87.86,2000,Climate Change minus
+80.07,2001,Climate Change minus
+81.52,2002,Climate Change minus
+82.42,2003,Climate Change minus
+82.71,2004,Climate Change minus
+86.54,2005,Climate Change minus
+77.56,2006,Climate Change minus
+82.96,2007,Climate Change minus
+82.1,2008,Climate Change minus
+76.45,2009,Climate Change minus
+83.04,2010,Climate Change minus
+83.09,2011,Climate Change minus
+87.01,2012,Climate Change minus
+78.47,2013,Climate Change minus
+84.98,2014,Climate Change minus
+92.14,2015,Climate Change minus
+90.56,2016,Climate Change minus
+95.08,2017,Climate Change minus
+87.61,2018,Climate Change minus
+93.09,2019,Climate Change minus
+94.36,2020,Climate Change minus
+99.95,2021,Climate Change minus
+95.52,2022,Climate Change minus
+100.0,1990,Red List (2021)
+90.54,1991,Red List (2021)
+96.59,1992,Red List (2021)
+93.63,1993,Red List (2021)
+90.68,1994,Red List (2021)
+87.71,1995,Red List (2021)
+85.15,1996,Red List (2021)
+78.49,1997,Red List (2021)
+77.42,1998,Red List (2021)
+77.56,1999,Red List (2021)
+76.5,2000,Red List (2021)
+70.79,2001,Red List (2021)
+68.2,2002,Red List (2021)
+69.94,2003,Red List (2021)
+73.15,2004,Red List (2021)
+72.57,2005,Red List (2021)
+72.98,2006,Red List (2021)
+70.58,2007,Red List (2021)
+70.08,2008,Red List (2021)
+64.7,2009,Red List (2021)
+68.81,2010,Red List (2021)
+74.01,2011,Red List (2021)
+76.53,2012,Red List (2021)
+75.99,2013,Red List (2021)
+78.11,2014,Red List (2021)
+75.65,2015,Red List (2021)
+79.08,2016,Red List (2021)
+80.34,2017,Red List (2021)
+76.13,2018,Red List (2021)
+81.88,2019,Red List (2021)
+94.87,2020,Red List (2021)
+97.22,2021,Red List (2021)
+94.49,2022,Red List (2021)
+100.0,1990,Priority species for conservation
+92.2,1991,Priority species for conservation
+95.63,1992,Priority species for conservation
+98.84,1993,Priority species for conservation
+94.32,1994,Priority species for conservation
+92.74,1995,Priority species for conservation
+90.08,1996,Priority species for conservation
+82.81,1997,Priority species for conservation
+80.0,1998,Priority species for conservation
+79.15,1999,Priority species for conservation
+81.0,2000,Priority species for conservation
+75.55,2001,Priority species for conservation
+72.56,2002,Priority species for conservation
+73.36,2003,Priority species for conservation
+76.19,2004,Priority species for conservation
+76.01,2005,Priority species for conservation
+78.67,2006,Priority species for conservation
+77.88,2007,Priority species for conservation
+76.63,2008,Priority species for conservation
+73.41,2009,Priority species for conservation
+76.26,2010,Priority species for conservation
+81.18,2011,Priority species for conservation
+84.13,2012,Priority species for conservation
+81.27,2013,Priority species for conservation
+84.73,2014,Priority species for conservation
+85.7,2015,Priority species for conservation
+88.53,2016,Priority species for conservation
+88.29,2017,Priority species for conservation
+88.63,2018,Priority species for conservation
+92.75,2019,Priority species for conservation
+104.44,2020,Priority species for conservation
+106.33,2021,Priority species for conservation
+104.61,2022,Priority species for conservation
+100.0,1990,International responsibility
+96.47,1991,International responsibility
+97.51,1992,International responsibility
+104.75,1993,International responsibility
+103.76,1994,International responsibility
+104.62,1995,International responsibility
+99.8,1996,International responsibility
+97.23,1997,International responsibility
+93.48,1998,International responsibility
+89.53,1999,International responsibility
+95.03,2000,International responsibility
+91.02,2001,International responsibility
+92.56,2002,International responsibility
+96.12,2003,International responsibility
+99.8,2004,International responsibility
+105.51,2005,International responsibility
+101.61,2006,International responsibility
+104.7,2007,International responsibility
+107.24,2008,International responsibility
+101.54,2009,International responsibility
+103.63,2010,International responsibility
+104.91,2011,International responsibility
+108.72,2012,International responsibility
+102.23,2013,International responsibility
+109.54,2014,International responsibility
+115.0,2015,International responsibility
+114.61,2016,International responsibility
+117.68,2017,International responsibility
+109.47,2018,International responsibility
+118.77,2019,International responsibility
+121.95,2020,International responsibility
+117.24,2021,International responsibility
+116.74,2022,International responsibility

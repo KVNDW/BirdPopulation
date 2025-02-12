@@ -1,0 +1,496 @@
+﻿mean;lower95;upper95;year;Nspecies;e;d;f;i
+100;97,96;102,29;1990;163;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+94,42;92,76;96,53;1991;163;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+96,95;95,29;98,9;1992;163;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+99,49;97,8;101,95;1993;163;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+98,2;96,28;100,39;1994;163;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+97,71;95,85;99,48;1995;165;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+96,52;94,69;98,85;1996;167;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+91,47;89,5;93,32;1997;167;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+89,42;88,25;90,54;1998;167;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+87,47;86,24;88,96;1999;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+92,61;91,63;94,08;2000;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+88,64;87,44;89,89;2001;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+87,91;86,81;89,2;2002;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+91,32;90,58;92,52;2003;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+95,33;94,07;96,49;2004;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+98,18;97,11;99,49;2005;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+95,25;94,22;96,24;2006;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+98,43;97,5;99,7;2007;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+98,9;97,89;99,92;2008;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+93,73;92,71;94,75;2009;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+99,44;98,34;100,41;2010;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+101,19;99,98;102,33;2011;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+105,02;103,98;106,2;2012;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+101,96;101;103,2;2013;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+106,09;104,93;107,23;2014;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+109,57;108,47;110,44;2015;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+112,06;111,02;113,1;2016;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+114,22;113,08;115,15;2017;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+109,86;108,53;111,1;2018;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+118,51;116,97;119,73;2019;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+125,77;124,61;127,1;2020;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+129,19;127,99;130,51;2021;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+123,84;122,52;125,22;2022;176;Regular Breeding Birds;Regelmässige Brutvögel;Oiseaux nicheurs réguliers;Nidificanti regolari
+100;95,48;107,24;1990;11;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+102,4;96,05;109,81;1991;11;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+106,26;99,62;112,79;1992;11;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+108,81;100,54;116,21;1993;11;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+108,98;102,95;116,39;1994;11;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+107,46;99,08;115,08;1995;12;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+101,65;93,32;110,42;1996;12;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+95,8;87,42;103,9;1997;12;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+86,97;81,39;92,56;1998;12;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+81,4;76,54;85,32;1999;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+82,82;79,13;86,98;2000;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+80,62;75,55;83,58;2001;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+80,41;76,48;84,47;2002;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+80,35;77;84,16;2003;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+81,7;77,62;85,34;2004;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+91,76;88,09;95,63;2005;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+91,99;88,14;96,91;2006;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+93,39;89,83;96,81;2007;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+94,13;91;96,69;2008;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+86,08;82,06;89,46;2009;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+87,09;83,1;90,85;2010;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+91,18;87,94;94,82;2011;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+89,46;85,38;93,05;2012;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+91,55;88,32;95,1;2013;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+100,23;95,6;103,96;2014;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+104,84;101,26;107,87;2015;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+108,07;103,99;112,59;2016;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+106,11;101,71;110,8;2017;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+103,89;99,25;110,1;2018;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+106,37;102,28;112,32;2019;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+122,22;115,52;128,33;2020;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+123,42;116,05;133,11;2021;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+122,67;116,64;129,47;2022;13;Alpine habitats;Alpine Lebensraeume;Habitats alpins;Habitati alpini
+100;90,23;110,05;1990;7;Settlements;Siedlung;Milieu construit;Zone edificate
+101,36;91,76;111,32;1991;7;Settlements;Siedlung;Milieu construit;Zone edificate
+104,39;93,78;116,45;1992;7;Settlements;Siedlung;Milieu construit;Zone edificate
+115,81;103,3;123,99;1993;7;Settlements;Siedlung;Milieu construit;Zone edificate
+106,11;93,92;114,18;1994;7;Settlements;Siedlung;Milieu construit;Zone edificate
+102,36;95,04;113,37;1995;7;Settlements;Siedlung;Milieu construit;Zone edificate
+106,73;95,79;117,04;1996;7;Settlements;Siedlung;Milieu construit;Zone edificate
+107,31;96,78;118,33;1997;7;Settlements;Siedlung;Milieu construit;Zone edificate
+101,68;94,05;108,55;1998;7;Settlements;Siedlung;Milieu construit;Zone edificate
+98,43;92,94;105,19;1999;8;Settlements;Siedlung;Milieu construit;Zone edificate
+112,6;106,88;118,41;2000;8;Settlements;Siedlung;Milieu construit;Zone edificate
+103,07;97,55;107,31;2001;8;Settlements;Siedlung;Milieu construit;Zone edificate
+102,17;97,05;107,88;2002;8;Settlements;Siedlung;Milieu construit;Zone edificate
+109,79;104,42;115,32;2003;8;Settlements;Siedlung;Milieu construit;Zone edificate
+113,83;108,05;118,18;2004;8;Settlements;Siedlung;Milieu construit;Zone edificate
+117,26;112,8;124,98;2005;8;Settlements;Siedlung;Milieu construit;Zone edificate
+112,97;106,76;117,54;2006;8;Settlements;Siedlung;Milieu construit;Zone edificate
+109,38;104,26;114,43;2007;8;Settlements;Siedlung;Milieu construit;Zone edificate
+109,2;102,46;113,69;2008;8;Settlements;Siedlung;Milieu construit;Zone edificate
+111,46;105,99;115,17;2009;8;Settlements;Siedlung;Milieu construit;Zone edificate
+115,7;110,48;121,06;2010;8;Settlements;Siedlung;Milieu construit;Zone edificate
+117,04;111;122,52;2011;8;Settlements;Siedlung;Milieu construit;Zone edificate
+120,4;114,47;125,06;2012;8;Settlements;Siedlung;Milieu construit;Zone edificate
+124,68;119,8;129,74;2013;8;Settlements;Siedlung;Milieu construit;Zone edificate
+112,12;107,07;117,03;2014;8;Settlements;Siedlung;Milieu construit;Zone edificate
+109,69;103,79;114,79;2015;8;Settlements;Siedlung;Milieu construit;Zone edificate
+115,36;110,23;122,28;2016;8;Settlements;Siedlung;Milieu construit;Zone edificate
+117,18;111,14;121,13;2017;8;Settlements;Siedlung;Milieu construit;Zone edificate
+116,89;111,33;122,03;2018;8;Settlements;Siedlung;Milieu construit;Zone edificate
+122,96;117,88;127,75;2019;8;Settlements;Siedlung;Milieu construit;Zone edificate
+132,15;127,55;139,9;2020;8;Settlements;Siedlung;Milieu construit;Zone edificate
+129,22;123,57;135,26;2021;8;Settlements;Siedlung;Milieu construit;Zone edificate
+142,25;134,8;149,57;2022;8;Settlements;Siedlung;Milieu construit;Zone edificate
+100;95,04;104,08;1990;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+87,28;83,19;91,34;1991;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+93,08;89,46;96,23;1992;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+90,94;86,61;94,99;1993;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+94,38;90,36;98,03;1994;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+93,03;89,46;97,03;1995;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+95,85;92,69;99,7;1996;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+86,79;83,33;90,04;1997;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+88,52;84,93;92,16;1998;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+83,26;79,77;85,95;1999;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+87,53;84,23;90,57;2000;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+86,53;83,53;89,75;2001;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+82,6;80,59;85,23;2002;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+93,16;90,27;96,24;2003;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+93,64;90,6;96,04;2004;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+94,44;92,13;97,48;2005;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+94,96;91,54;97,06;2006;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+98,14;94,79;100,49;2007;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+100,2;97,33;103,12;2008;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+98,75;95,71;100,54;2009;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+100,47;97,81;102,93;2010;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+107,65;104,5;110,92;2011;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+105,13;101,57;107,65;2012;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+114,91;111,8;117,34;2013;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+116,25;112,91;120,15;2014;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+121,51;118,21;124,55;2015;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+132,69;129,86;136,04;2016;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+132,91;129,52;135,32;2017;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+131,58;128,57;135,54;2018;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+130,76;127,63;134,04;2019;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+136,09;133,17;139,44;2020;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+139;135,95;143,54;2021;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+137,49;133,6;150,17;2022;40;Wetlands;Feuchtgebiete und Gewaesser;Zones humides, lacs et cours d'eau;Zone umide, laghi e corsi d'acqua
+100;96,4;103,35;1990;49;Woodland;Wald;Forêt;Bosco
+93,69;90,92;96,16;1991;49;Woodland;Wald;Forêt;Bosco
+94,97;91,99;98,1;1992;49;Woodland;Wald;Forêt;Bosco
+103,06;100,22;106,34;1993;49;Woodland;Wald;Forêt;Bosco
+99,3;96,02;102,35;1994;49;Woodland;Wald;Forêt;Bosco
+99,84;96,63;103,03;1995;49;Woodland;Wald;Forêt;Bosco
+98,86;95,21;101,58;1996;50;Woodland;Wald;Forêt;Bosco
+97,42;93,64;101,11;1997;50;Woodland;Wald;Forêt;Bosco
+94,23;91,86;96,58;1998;50;Woodland;Wald;Forêt;Bosco
+92,4;90,36;94,27;1999;56;Woodland;Wald;Forêt;Bosco
+99,19;97,26;101,14;2000;56;Woodland;Wald;Forêt;Bosco
+95,13;93,25;96,66;2001;56;Woodland;Wald;Forêt;Bosco
+97,84;96,13;100,1;2002;56;Woodland;Wald;Forêt;Bosco
+100,58;98,58;102,48;2003;56;Woodland;Wald;Forêt;Bosco
+107,44;105,58;109,45;2004;56;Woodland;Wald;Forêt;Bosco
+111,12;108,56;112,76;2005;56;Woodland;Wald;Forêt;Bosco
+102,35;100;103,92;2006;56;Woodland;Wald;Forêt;Bosco
+109,09;106,97;111,22;2007;56;Woodland;Wald;Forêt;Bosco
+110,82;108,84;112,7;2008;56;Woodland;Wald;Forêt;Bosco
+100,86;99,28;102,32;2009;56;Woodland;Wald;Forêt;Bosco
+110,56;108,73;112,48;2010;56;Woodland;Wald;Forêt;Bosco
+108,37;106,64;110,14;2011;56;Woodland;Wald;Forêt;Bosco
+114,83;112,67;116,89;2012;56;Woodland;Wald;Forêt;Bosco
+104,24;102,13;105,85;2013;56;Woodland;Wald;Forêt;Bosco
+112,02;110,06;113,53;2014;56;Woodland;Wald;Forêt;Bosco
+118,3;115,93;119,81;2015;56;Woodland;Wald;Forêt;Bosco
+115,51;113,96;117,15;2016;56;Woodland;Wald;Forêt;Bosco
+119,5;117,06;122,17;2017;56;Woodland;Wald;Forêt;Bosco
+109,9;108,41;111,77;2018;56;Woodland;Wald;Forêt;Bosco
+124,56;122,28;126,54;2019;56;Woodland;Wald;Forêt;Bosco
+124,13;121,94;126,67;2020;56;Woodland;Wald;Forêt;Bosco
+132,34;130,25;134,21;2021;56;Woodland;Wald;Forêt;Bosco
+119,83;116,72;121,07;2022;56;Woodland;Wald;Forêt;Bosco
+100;95,05;104,83;1990;26;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+91,45;84,61;97;1991;26;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+90,69;85,27;95,96;1992;26;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+92,39;87;97,57;1993;26;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+92,13;86,85;98,21;1994;26;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+87,58;82,59;91,32;1995;27;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+84,18;79,91;88,81;1996;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+74,9;71,39;78,6;1997;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+72,52;69,89;76,36;1998;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+74,79;71,42;77,77;1999;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+76,3;72,99;79,2;2000;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+69,15;66,25;72,22;2001;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+65,64;63,25;68,39;2002;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+66,47;64,34;69,51;2003;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+69,1;66,77;71,24;2004;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+68,66;66,72;70,78;2005;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+68,84;66,94;71,27;2006;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+68,94;66,67;71,33;2007;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+65,93;63,92;68,07;2008;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+63,17;60,46;65,54;2009;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+66,8;65,02;68,98;2010;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+72,55;70,12;74,95;2011;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+80,22;77,7;82,81;2012;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+73,87;71,39;76,27;2013;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+75,32;72,81;78,38;2014;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+75,3;73,06;78,01;2015;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+76,63;73,8;78,77;2016;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+76,06;73,26;78,59;2017;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+76,11;73,62;78,76;2018;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+78,13;75,5;81,46;2019;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+94,53;91,37;96,88;2020;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+94,09;91,07;96,37;2021;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+96,67;92,37;105,43;2022;28;Target species EOA;Zielarten UZL;Espèces cibles OEA;Specie bersaglio degli OAA
+100;94,25;106,29;1990;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+99,69;93,01;107,48;1991;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+103,08;95,56;110,56;1992;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+103,53;96,95;109,76;1993;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+103,29;97,88;107,93;1994;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+107,09;100,94;113,99;1995;17;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+104,58;96,64;111,99;1996;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+99,57;92,32;105,65;1997;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+93,58;90,48;96,83;1998;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+92,35;89,83;94,78;1999;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+97,1;95,06;100,08;2000;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+91,44;89,46;93,5;2001;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+87,76;85,26;90,08;2002;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+90,34;87,91;92,73;2003;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+94,95;92,65;96,84;2004;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+102,46;100,49;105,16;2005;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+97,67;95,53;100,49;2006;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+100,08;97,19;102,06;2007;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+95,71;93,12;97,89;2008;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+90,16;87,93;92,37;2009;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+97,36;94,75;99,82;2010;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+95,81;93,52;98,27;2011;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+97,2;95,11;99,43;2012;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+89,2;87,66;91,15;2013;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+95,49;93,39;98,11;2014;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+97,39;95,04;100,45;2015;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+99,26;96,35;101,36;2016;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+98,2;96,12;100,55;2017;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+94,75;92,12;97,08;2018;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+104,68;102,45;107,74;2019;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+107,47;104,5;109,59;2020;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+110,28;107,88;112,07;2021;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+102,38;99,44;104,53;2022;18;Characteristic species EOA;Leitarten UZL;Espèces caractèristiques OEA;Specie faro degli OAA
+100;96,12;105,28;1990;43;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+94,88;91,11;98,34;1991;43;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+95,86;92,2;100,08;1992;43;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+97,14;93,76;101,17;1993;43;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+97,46;93,54;101,81;1994;43;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+95,35;92,21;99,72;1995;44;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+92,98;89,67;97,4;1996;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+85,54;82,54;88,72;1997;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+82,04;79,27;84,2;1998;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+82,47;79,82;84,4;1999;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+85,15;82,54;87,39;2000;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+78,81;76,96;81,02;2001;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+75,31;73,48;77,01;2002;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+76,87;74,94;78,61;2003;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+80,2;78,34;81,51;2004;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+82,48;80,65;84,06;2005;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+80,97;79,53;82,51;2006;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+82,22;80,67;83,88;2007;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+78,97;76,96;80,47;2008;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+74,86;73,33;76,21;2009;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+80,4;78,86;81,92;2010;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+83,01;81,05;84,91;2011;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+87,57;85,92;89,46;2012;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+81,24;79,63;82,65;2013;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+84,7;83,28;86,1;2014;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+85,73;84,24;87,03;2015;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+87,08;85,04;88,54;2016;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+86,62;84,55;88,28;2017;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+85,54;84,17;87,1;2018;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+90,52;88,1;91,99;2019;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+101,6;99,59;103,31;2020;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+102,73;100,94;104,76;2021;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+100,77;98,67;104,8;2022;46;Target and characteristic species EOA;Ziel- und Leitarten UZL;Espèces cibles et caractèristiques OEA;Specie bersaglio e faro degli OAA
+100;97,66;102,3;1990;110;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+95,91;93,49;98,06;1991;110;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+95,61;93,52;98,12;1992;110;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+101,28;99,44;104,35;1993;110;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+102,41;100,7;104,55;1994;110;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+101,45;98,79;103,89;1995;111;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+99,05;96,96;101,53;1996;113;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+95,24;93,36;97,54;1997;113;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+94,22;92,83;96,11;1998;113;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+90,44;88,77;92,39;1999;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+96,85;95,48;98,33;2000;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+93,95;92,76;95,24;2001;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+94,69;93,47;95,74;2002;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+99,09;97,56;101,13;2003;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+103;101,71;104,22;2004;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+106,88;105,56;107,84;2005;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+101,57;100,2;103,08;2006;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+107,26;105,89;108,46;2007;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+108,22;106,82;109,75;2008;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+101,52;100,46;102,69;2009;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+106,89;105,5;108,18;2010;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+108,41;107,24;109,58;2011;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+114,24;113,08;115,85;2012;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+109,29;107,91;110,52;2013;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+113,25;111,66;114,55;2014;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+118,73;117,54;120,62;2015;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+121,26;120,08;122,81;2016;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+124,32;123,12;125,82;2017;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+119,07;117,74;120,48;2018;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+129,31;127,64;130,63;2019;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+132,09;130,62;133,59;2020;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+136,54;134,79;138,66;2021;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+130,05;128,58;132,23;2022;119;Short-distance migrants;Kurzstreckenzieher;Migrateurs à courte distance;Migratori a corto raggio
+100;95,04;104,5;1990;52;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+91,19;87,93;94,27;1991;52;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+98,45;93,95;101,94;1992;52;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+95,04;91,63;98,62;1993;52;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+89,77;86,6;93,62;1994;52;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+90,55;87,16;94,12;1995;53;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+90,13;87,2;94,43;1996;53;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+83,32;79,78;86,42;1997;53;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+79,24;76,93;81,52;1998;53;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+81,38;79,36;84,05;1999;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+83,88;81,92;86,55;2000;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+77,99;75,19;79,6;2001;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+74,66;72,88;76,11;2002;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+75,96;74,33;77,69;2003;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+80,37;78,45;82,32;2004;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+81,16;79,45;82,65;2005;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+82,59;81,04;84,73;2006;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+81,21;79,62;82,95;2007;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+80,47;78,75;82,44;2008;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+77,97;76,2;79,75;2009;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+83,9;82,19;85,25;2010;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+86,47;84,82;88,22;2011;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+86,62;84,78;88,51;2012;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+87,43;85,67;89,29;2013;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+90,92;89,13;93,09;2014;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+90,97;89,01;92,77;2015;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+93,53;91,28;95,29;2016;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+94,16;92,52;96,28;2017;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+91,68;89,66;93,23;2018;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+97,61;96,01;99,75;2019;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+112,66;110,53;114,94;2020;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+113,88;111,77;116,17;2021;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+110,85;108,95;113,51;2022;56;Long-distance migrants;Langstreckenzieher;Migrateurs à longue distance;Migratori a lungo raggio
+100;94,87;107,15;1990;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+93,25;87,54;98,01;1991;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+95,63;92,09;100,71;1992;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+99,97;94,46;104,02;1993;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+101,68;97,45;105,51;1994;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+101,48;98,5;105,78;1995;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+102,14;98,25;106,55;1996;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+96,05;92,55;99,82;1997;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+98,94;94,12;102,93;1998;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+96,76;93,16;100,68;1999;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+102,01;98,27;105,76;2000;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+97,66;93,36;101,44;2001;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+97,45;93,92;100,94;2002;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+101,51;97,65;104,23;2003;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+107,82;102,41;111,57;2004;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+110,8;107,3;114,01;2005;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+115,94;111,65;118,9;2006;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+121,53;117,92;125,67;2007;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+120,01;117,04;124,02;2008;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+117,85;113,65;121,41;2009;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+123,7;119,61;129;2010;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+127,84;124,17;131,73;2011;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+130,67;126,89;134,79;2012;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+133,28;129,26;136,66;2013;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+139,82;136,11;143,73;2014;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+144,71;140,89;148,08;2015;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+150,1;146,58;154,64;2016;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+154,58;151,45;158,63;2017;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+152,6;147,77;155,63;2018;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+170,57;167,07;175,46;2019;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+189,71;183,49;195,09;2020;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+195,2;189,88;198,76;2021;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+181,19;177,2;186,02;2022;20;Climate Change plus;Climate Change plus;Climate Change plus;Climate Change plus
+100;95,16;106,57;1990;18;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+98,25;93,93;102,22;1991;18;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+96,88;92,82;100,91;1992;18;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+103,22;96,76;108,42;1993;18;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+102,08;97,07;107,32;1994;18;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+101,64;96,78;105,76;1995;19;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+97,97;93,44;102,71;1996;19;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+92,58;88,18;98,21;1997;19;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+86,64;83,55;90;1998;19;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+83,79;80,61;86,35;1999;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+87,86;85,23;90,56;2000;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+80,07;77,3;83,02;2001;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+81,52;78,56;84,32;2002;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+82,42;79,6;84,68;2003;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+82,71;79,8;85,02;2004;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+86,54;83,4;89,19;2005;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+77,56;75,63;80,07;2006;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+82,96;80,75;84,77;2007;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+82,1;79,55;84,59;2008;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+76,45;74,01;78,83;2009;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+83,04;80,65;85,62;2010;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+83,09;81,22;85,81;2011;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+87,01;84,83;89,42;2012;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+78,47;76,67;80,86;2013;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+84,98;82,55;86,84;2014;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+92,14;90,02;94,07;2015;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+90,56;88,28;92,9;2016;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+95,08;92,55;97,78;2017;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+87,61;85,32;89,32;2018;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+93,09;91,28;96,3;2019;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+94,36;91,87;96,38;2020;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+99,95;97,52;101,93;2021;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+95,52;92,84;97,94;2022;20;Climate Change minus;Climate Change minus;Climate Change minus;Climate Change minus
+100;95,44;103,62;1990;42;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+90,54;85,62;94,96;1991;42;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+96,59;91,9;101,17;1992;42;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+93,63;88,69;98,22;1993;42;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+90,68;86,8;95,2;1994;42;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+87,71;84,09;91,45;1995;43;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+85,15;81;88,59;1996;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+78,49;74,43;82,02;1997;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+77,42;74,3;80,47;1998;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+77,56;74,17;79,69;1999;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+76,5;74,1;79,31;2000;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+70,79;67,92;73,38;2001;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+68,2;66,16;70,32;2002;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+69,94;67,76;71,93;2003;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+73,15;71,14;75,84;2004;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+72,57;70,53;75,4;2005;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+72,98;71,07;75,33;2006;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+70,58;68,78;72,61;2007;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+70,08;67,9;72,73;2008;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+64,7;62,86;66,09;2009;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+68,81;66,91;70,84;2010;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+74,01;72,32;76,15;2011;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+76,53;74,11;78,84;2012;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+75,99;74,02;77,97;2013;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+78,11;75,73;80,62;2014;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+75,65;73,09;78,06;2015;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+79,08;76,61;81,16;2016;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+80,34;77,83;82,28;2017;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+76,13;73,66;78,91;2018;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+81,88;79,64;84,46;2019;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+94,87;92,99;97,44;2020;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+97,22;94,12;99,91;2021;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+94,49;91,59;100,36;2022;44;Red List (2021);Rote Liste (2021);Liste rouge (2021);Lista Rossa (2021)
+100;96,85;103,05;1990;46;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+92,2;88,03;95,89;1991;46;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+95,63;92,46;99,15;1992;46;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+98,84;94,79;103,16;1993;46;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+94,32;90,73;97,54;1994;46;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+92,74;89,3;96,69;1995;48;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+90,08;86,96;93,26;1996;49;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+82,81;78,15;86,38;1997;49;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+80;77,16;82,25;1998;49;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+79,15;76,85;81,4;1999;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+81;78,25;83,5;2000;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+75,55;73,76;77,35;2001;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+72,56;70,17;74,7;2002;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+73,36;71,16;75,24;2003;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+76,19;74,29;77,75;2004;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+76,01;74,37;77,96;2005;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+78,67;76,93;80,6;2006;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+77,88;75,97;79,86;2007;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+76,63;75,19;78,35;2008;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+73,41;71,73;75,15;2009;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+76,26;74,59;77,57;2010;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+81,18;79,83;82,86;2011;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+84,13;82,69;86,31;2012;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+81,27;79,59;82,94;2013;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+84,73;83,33;87,15;2014;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+85,7;83,94;87,49;2015;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+88,53;86,38;90,73;2016;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+88,29;86,66;90,46;2017;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+88,63;86,94;90,73;2018;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+92,75;90,6;94,78;2019;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+104,44;102,14;106,66;2020;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+106,33;104,1;108,62;2021;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+104,61;101,76;109;2022;50;Priority species for conservation;Prioritaetsarten Artenfoerderung;Espèces prioritaires pour une conservation ciblée;Specie prioritarie per una conservazione mirata
+100;96,07;104,25;1990;32;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+96,47;92,69;100,82;1991;32;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+97,51;93,53;101,17;1992;32;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+104,75;100,61;109,73;1993;32;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+103,76;99,43;107,98;1994;32;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+104,62;100,84;108,76;1995;33;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+99,8;95,91;103,47;1996;33;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+97,23;92,33;101,54;1997;33;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+93,48;91,04;95,63;1998;33;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+89,53;86,45;91,84;1999;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+95,03;92,65;96,96;2000;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+91,02;88,88;92,9;2001;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+92,56;90,38;94,65;2002;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+96,12;93,82;98,38;2003;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+99,8;97,56;101,82;2004;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+105,51;103,39;107,66;2005;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+101,61;98,92;103,64;2006;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+104,7;101,64;107,65;2007;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+107,24;104,53;109,29;2008;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+101,54;99,31;103,88;2009;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+103,63;102,14;106,07;2010;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+104,91;103,1;107,08;2011;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+108,72;106,44;110,85;2012;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+102,23;100,14;104,16;2013;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+109,54;107,6;111,69;2014;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+115;112,62;118,19;2015;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+114,61;112,23;117,73;2016;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+117,68;115,37;119,65;2017;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+109,47;107,18;112,27;2018;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+118,77;115,17;121,54;2019;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+121,95;119,38;124,93;2020;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+117,24;114;121,03;2021;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale
+116,74;113,37;119,24;2022;37;International responsibility;Internationale Verantwortung;Responsabilité internationale;Resonsabilità internazionale

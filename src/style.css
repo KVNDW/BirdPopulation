@@ -1,0 +1,574 @@
+.bar { fill: #82AEE5; }
+#chart-area-box { fill: none; stroke: black }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    scroll-behavior: smooth;
+    background-color: #f1e7db;
+    font-family: Inter, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+.full-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    height: 100vh;
+    scroll-behavior: smooth;
+    overflow: auto;
+    scroll-snap-type: y proximity;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center-bottom {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.button-container {
+    margin: 20px 0;
+}
+
+.prey-button {
+    padding: 10px 15px;
+    margin-right: 5px;
+    background-color: #839e66;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#chart-container {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+#cat-predation-chart {
+    max-width: 600px;
+}
+
+#tempgraph{
+    max-width: 600px;
+}
+
+.bar {
+    fill: #354525;
+    transition: fill 0.2s;
+}
+
+.axis-label, .chart-title {
+    font-size: 16px;
+}
+
+.button-svg-container {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.prey-button {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.prey-button.active {
+    background-color: #354525;
+    color: white;
+}
+
+.prey-icon {
+    width: 50px;
+    height: 50px;
+}
+
+
+.line {
+    fill: none;
+    stroke: #354525;
+    stroke-width: 2px;
+    transition: stroke-width 0.3s;
+}
+
+.line:hover {
+    stroke-width: 4px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.base-line {
+    stroke: #839e66;
+    stroke-width: 1;
+    stroke-dasharray: 5,5;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 6px;
+    font: 12px sans-serif;
+    background: #9bb29b;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.1s;
+}
+
+.dot {
+    fill: #144c17;
+    stroke-width: 1px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section.title {
+    text-align: center;
+    padding: 20px;
+}
+
+ h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+     color: #0f270f;
+}
+
+.section.title h3 {
+    font-size: 1em;
+    color: #555;
+}
+
+.chart-section {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.chart-description {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    align-items: flex-start;
+}
+
+.chart-description .description {
+    flex: 1;
+    padding: 20px;
+}
+
+ h2 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+     color: #122a12;
+ }
+
+ p {
+    font-size: 1em;
+    line-height: 1.5;
+     font-weight: bold;
+    text-align: left;
+     color: #0f270f;
+ }
+
+.chart-description .image {
+    flex: 1;
+    padding: 20px;
+}
+
+.chart-description .image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.line {
+    fill: none;
+    stroke: #144c17;
+    stroke-width: 2px;
+}
+
+.dot {
+    fill: #0f2f11;
+    stroke-width: 1.5px;
+}
+
+.base-line {
+    stroke: #33543f;
+    stroke-dasharray: 5,5;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section.title {
+    text-align: center;
+    padding: 20px;
+}
+
+.section.title h3 {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.chart-section {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.chart-and-description {
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+.chart-and-description > div {
+    flex: 1;
+    padding: 20px;
+}
+
+#tree_pipit_chart {
+    max-width: 600px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    text-align: start;
+    justify-content: start;
+}
+
+.description img {
+    width: 15vw;
+    height:15vw;
+    object-fit: cover;
+}
+.right-nav {
+    position: fixed;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    z-index: 1000;
+}
+
+.right-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.right-nav li {
+    position: relative;
+}
+
+.nav-dot {
+    width: 15px;
+    height: 15px;
+    background-color: #839e66;
+    border-radius: 50%;
+    display: block;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-dot:hover {
+    background-color: #354525;
+    transform: scale(1.2);
+}
+
+.nav-dot::after {
+    content: attr(data-name);
+    position: absolute;
+    top: 50%;
+    left: -120px;
+    transform: translateY(-50%);
+    background-color: #354525;
+    color: white;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.nav-dot:hover::after {
+    opacity: 1;
+}
+
+
+.tree-pipit-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.tree-pipit-description {
+    width: 30%;
+    text-align: center;
+}
+
+.habitats_chart {
+    width: 70%;
+    text-align: center;
+}
+
+.habitat-button {
+    padding: 10px 15px;
+    margin-right: 5px;
+    background-color: #839e66;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.tree-pipit-chart {
+    width: 70%;
+    text-align: center;
+}
+
+.tree-pipit-description img {
+    width: 20vw;
+    height:20vw;
+    object-fit: cover;
+}
+
+.tree-pipit-description #woodlands{
+    width: 3vw;
+    height:3vw;
+}
+
+.text-box {
+    background-color: #bfd3b1;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.habitat {
+    display: flex;
+}
+
+.temperature-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.map-visualization-section {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+#section5 {
+    height: 120%;
+}
+
+#section2 {
+    height: 110%;
+}
+#section6 {
+    height: 120%;
+    display: flex;
+    justify-content: start;
+}
+
+.map-container, .map-description {
+    flex: 1 1 50%;
+    text-align: center;
+    padding: 20px;
+}
+
+#map {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.cat-predation-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.cat-predation-description, .cat-chart {
+    text-align: left;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cat-predation-description img {
+    width: 15vw;
+    height:15vw;
+    object-fit: cover;
+}
+
+li {
+    font-weight: bold;
+}
+
+.bird-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.bird {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 400px;
+    height: auto;
+    animation: flyAcrossScreen 5s linear infinite;
+}
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 2s ease-out, transform 1s ease-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+@keyframes flyAcrossScreen {
+    0% {
+        transform: translateX(-100%) translateY(100px) scale(1) rotate(-5deg);
+    }
+    50% {
+        transform: translateX(50vw) translateY(500px) scale(1) rotate(0deg);
+    }
+    100% {
+        transform: translateX(100vw) translateY(50px) scale(1) rotate(5deg);
+    }
+}
+
+.texty{
+    width: 60%;
+}
+.text2{
+    width: 80%;
+}
+.description2{
+    width: 70%;
+}
+.fullsize{
+    width: 100%;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 8px;
+    border-radius: 5px;
+    background: #354525;
+    outline: none;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #354525;
+    cursor: pointer;
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #354525;
+    cursor: pointer;
+}
+
+input[type="range"]:hover {
+    opacity: 1;
+}
+
+.range-button {
+    margin-right: 5px;
+    background-color: #839e66;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.range-button.active {
+    background-color: #354525;
+}
+
+.range-button:hover {
+    background-color: #354525;
+}
