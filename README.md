@@ -1,5 +1,5 @@
 # Team
-06_Wuersch_Mykytyn_BirdPopulation
+This Project is a Team effort of Sofiia Mykytyn and Kevin Würsch
 
 ### Topic:
 This is an interactive website that visualizes bird population trends in Switzerland. It focuses on the impacts of climate change, habitat loss, and cat predation.It highlights shifting habitats, species challenges, and conservation insights. Through interactive graphs, maps, and case studies, the project aims to raise awareness and foster understanding of bird ecology in a changing environment.
